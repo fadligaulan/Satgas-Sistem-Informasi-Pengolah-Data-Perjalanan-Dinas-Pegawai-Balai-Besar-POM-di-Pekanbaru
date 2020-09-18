@@ -1,0 +1,33 @@
+[18-Jul-2019 20:28:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[18-Jul-2019 20:29:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[18-Jul-2019 20:30:54 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[19-Jul-2019 23:21:37 Asia/Jakarta] PHP Fatal error:  Call to a member function get_peserta() on null in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 181
+[19-Jul-2019 23:22:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function instance() in /home/onlz5498/public_html/infokajianislami/application/helpers/notification_helper.php on line 5
+[21-Jul-2019 19:08:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on array in /home/onlz5498/public_html/infokajianislami/application/controllers/Peserta.php on line 17
+[03-Aug-2019 17:04:12 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/fadc5672/public_html/infokajianislami/system/libraries/Session/drivers/Session_files_driver.php on line 265
+[30-Apr-2020 12:28:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Apr-2020 12:32:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[05-May-2020 02:23:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[05-May-2020 07:09:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[05-May-2020 07:09:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[13-May-2020 04:32:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[13-May-2020 11:01:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[19-May-2020 14:22:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-May-2020 10:03:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-May-2020 13:01:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-May-2020 12:28:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-May-2020 12:29:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-May-2020 12:29:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Jun-2020 08:43:59 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[23-Jun-2020 01:45:02 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Jul-2020 12:22:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[13-Jul-2020 08:12:35 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[06-Aug-2020 16:56:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-Aug-2020 16:20:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Sep-2020 10:22:42 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[11-Sep-2020 20:02:28 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[11-Sep-2020 20:03:01 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[11-Sep-2020 20:03:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[11-Sep-2020 20:04:25 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[11-Sep-2020 20:04:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Sep-2020 12:05:37 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/satgas/system/libraries/Session/drivers/Session_files_driver.php on line 212
